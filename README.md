@@ -1,5 +1,5 @@
 ## Hi there, I'm Deep 👋
-
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJjemRndTIwZms1aDY5djkwOGx0YnU0MnRjamx5NWdxcmRvbDk4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.gif)
 I'm a full-stack software developer with experience in TypeScript, Next.js, Node.js, and MongoDB. I enjoy building scalable web applications and tackling complex technical challenges.
 
 ### 🔧 Technologies & Tools
@@ -17,9 +17,6 @@ I'm a full-stack software developer with experience in TypeScript, Next.js, Node
 
 ### 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/deep123)
-- [Personal Blog](your-blog-url)
-- Email: deep@example.com
-
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepPatel6128&show_icons=true)
+- Email: deep002patel@gmail.com
 
 
