@@ -13,7 +13,7 @@
 
 ### 🌱 Currently Learning
 - Data Structures & Algorithms.
-- AI-driven algorithms for resident matching in housing platforms.
+- Full Stack Software Development
 
 ### 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/deep123)
